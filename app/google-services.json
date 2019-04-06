@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "97726856422",
+    "firebase_url": "https://eastern-lattice-235402.firebaseio.com",
+    "project_id": "eastern-lattice-235402",
+    "storage_bucket": "eastern-lattice-235402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97726856422:android:257ac0d2eefb3b62",
+        "android_client_info": {
+          "package_name": "com.example.sophia.w7_googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97726856422-gs4ggug26p2sedg9m5p7lhn602cgdfba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sophia.w7_googlelogin",
+            "certificate_hash": "1ecba52e9a504e900b05ea9fe30c3e9b7073831c"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3-PAT3XkQbDnXmqrpfRwOXzcP6fD9jDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97726856422-l1f5eek5sgagge8fmf87hlk0q9b72htj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
